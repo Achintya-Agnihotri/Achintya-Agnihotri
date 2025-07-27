@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Achintya Agnihotri
 
-🎓 I'm a B.Tech student specializing in **AI & Robotics** at VIT, Vellore.  
+🎓 I'm a B.Tech student specializing in **AI & Robotics** at VIT, Chennai.  
 🎮 Passionate about **Game Development** and **Robotics** — I love building things from scratch.  
 🛠️ Currently exploring **Gamemaker2D** and System Programming.
 
