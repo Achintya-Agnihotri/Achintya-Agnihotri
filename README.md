@@ -27,10 +27,9 @@
 
 ---
 
-## ⚡ Fun Fact
-I once built a working football league winner predictor using historical EPL data — and it was pretty accurate 😄
 
----
+
+
 
 <!---
 Achintya-Agnihotri/Achintya-Agnihotri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
